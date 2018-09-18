@@ -415,18 +415,18 @@ module.exports = {
 
   'saving': 'Saving',
   'save.successfully': 'Saved',
-  'content.isnot.modified': 'The content is not modified',
+  'content.isnot.modified': 'Der Inhalt wurde nicht geändert',
 
   'logining': 'Logging in ...',
   'login.successfully': 'Login successful, jumping ...',
   'login.endpoint.error': 'Please make sure Endpoint is correct',
 
   'upgrade.start': 'Upgrade',
-  'upgrade.downloading': 'Start download...',
-  'upgrade.download.field': 'Automatic update failed, please manually download the installation package.',
-  'upgrade.download.success': 'Download successfully, install and restart',
+  'upgrade.downloading': 'Starte den Download...',
+  'upgrade.download.field': 'Automatisches Update gescheitert, bitte die Software manuell herunterladen und installieren.',
+  'upgrade.download.success': 'Download erfolgreich, installieren und neustarten',
 
-  'Insufficient disk space': 'Insufficient disk space',
+  'Insufficient disk space': 'Nicht genug Speicherplatz',
 
   'grant.email.title': 'OSS Browser Authorization',
   'grant.email.body.title': 'OSS Browser currently supports 2 ways to login, you can choose any one:',
